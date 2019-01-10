@@ -10,4 +10,8 @@ kheer
 pasta
 
 
+
+pizza 
+aloo
+
 chiecken fry
